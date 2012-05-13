@@ -106,7 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate (~> 2.4.1.beta)
-  bcrypt-ruby
+  bcrypt-ruby (~> 3.0.1)
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.3)
